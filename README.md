@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/SoniReddyMaram/To-do-List.git
 2. **Navigate to the project directory**:
-   cd To-do-List
+   - cd To-do-List
 3. **Open the Project**:
    - Open the index.html file in your browser.
    - Alternatively, use a live server extension in your code editor (e.g., VS Code) to run the project.
@@ -35,12 +35,12 @@ To run this project locally, follow these steps:
 
 ## Folder Structure 📂
 
-To-do-List/
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-└── screenshot.png
+- To-do-List/
+  - index.html
+  - script.js
+  - style.css
+  - README.md
+  - screenshot.png
 
 ## Contributing 🤝
 Contributions are welcome! If you have any suggestions, bug fixes, or improvements, feel free to open an issue or submit a pull request.
