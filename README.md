@@ -29,9 +29,9 @@ To run this project locally, follow these steps:
    - Alternatively, use a live server extension in your code editor (e.g., VS Code) to run the project.
 
 ## Technologies Used 💻
--**HTML**: For structuring the application.
--**CSS**: For styling and making the app visually appealing.
--**JavaScript**: For adding interactivity and functionality.
+- **HTML**: For structuring the application.
+- **CSS**: For styling and making the app visually appealing.
+- **JavaScript**: For adding interactivity and functionality.
 
 ## Folder Structure 📂
 
